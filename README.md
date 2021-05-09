@@ -4,7 +4,7 @@
 2- Start Spring Boot application with a specific profile such as "-Dspring.profiles.active=dev" . <br/>
 3- swagger-ui can be accessed from URL : http://localhost:8080/customer-info/swagger-ui/ <br/><br/>
 
-![alt text](https://github.com/tufangorel/spring-boot-springfox-swagger-ui-document-rest-api/blob/main/springfox-swagger-ui.png)
+![swagger_ui](doc/springfox-swagger-ui.png)
 <br/>
 
 ### Tech Stack
